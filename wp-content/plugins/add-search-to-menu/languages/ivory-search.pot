@@ -1,0 +1,859 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ivory Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 18:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.1"
+
+#. %s: time since the creation of the search form
+#: admin/class-is-list-table.php:241
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-is-search-form.php:129
+#, php-format
+msgid ""
+"<code>%1$s</code> property of a <code>IS_Search_Form</code> object is "
+"<strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr ""
+
+#: public/class-is-ajax.php:699
+msgid "<i>Categories:</i> "
+msgstr ""
+
+#: public/class-is-ajax.php:674
+msgid "<i>Tagged with:</i> "
+msgstr ""
+
+#: admin/class-is-help.php:81
+msgid ""
+"<strong>Delete</strong> - Deletes the search form. The search form gets "
+"deleted permanently and its shortcode becomes void so you have to remove the "
+"shortcode if you have used it anywhere."
+msgstr ""
+
+#: admin/class-is-help.php:80
+msgid ""
+"<strong>Duplicate</strong> - Clones that search form. A cloned search form "
+"inherits all content from the original, but has a different ID."
+msgstr ""
+
+#: admin/class-is-help.php:79
+msgid ""
+"<strong>Edit</strong> - Navigates to the editing screen for that search form."
+" You can also reach that screen by clicking on the search form title."
+msgstr ""
+
+#: admin/class-is-help.php:86
+msgid ""
+"<strong>Excludes</strong> provides options to exclude specific content from "
+"the search on the site."
+msgstr ""
+
+#: admin/class-is-help.php:85
+msgid ""
+"<strong>Includes</strong> provides options to control which content on the "
+"site is searchable."
+msgstr ""
+
+#: admin/class-is-help.php:96
+msgid ""
+"<strong>Menu Search</strong> provides a place where you can customize the "
+"behavior of search form added in the site navgation menu."
+msgstr ""
+
+#: admin/class-is-help.php:87
+msgid ""
+"<strong>Options</strong> provides a place where you can customize overall "
+"behavior of this search form."
+msgstr ""
+
+#: admin/class-is-help.php:97
+msgid ""
+"<strong>Settings</strong> provides options to configure sitewide search "
+"functionality."
+msgstr ""
+
+#: admin/class-is-help.php:84
+msgid ""
+"<strong>Title</strong> is the title of a search form. This title is only "
+"used for labeling a search form, and can be edited."
+msgstr ""
+
+#: admin/class-is-help.php:138
+#, php-format
+msgid "Activate %s plugin to use this option."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:313
+msgid "Add class to search form menu item."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:456
+msgid "Add custom css code."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:356
+msgid ""
+"Add Google Custom Search( CSE ) search form code that will replace default "
+"search form."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:303
+msgid "Add menu title to display in place of search icon."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:317
+msgid "Add multiple classes seperated by space."
+msgstr ""
+
+#: admin/class-is-admin.php:515 admin/class-is-admin.php:524
+#: admin/class-is-admin.php:579 admin/partials/search-form.php:31
+msgid "Add New"
+msgstr ""
+
+#: admin/class-is-admin.php:514 admin/class-is-admin.php:523
+#: admin/partials/search-form.php:21
+msgid "Add New Search Form"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:481
+msgid "Add synonyms here to make the searches find better results."
+msgstr ""
+
+#: admin/partials/search-form.php:124
+msgid "AJAX"
+msgstr ""
+
+#: includes/class-is-admin-public.php:267
+msgid "AJAX loader image."
+msgstr ""
+
+#: public/class-is-ajax.php:622
+msgctxt "Article written by"
+msgid "<i>By</i> "
+msgstr ""
+
+#: admin/class-is-list-table.php:33
+msgid "Author"
+msgstr ""
+
+#: admin/class-is-help.php:21
+msgid "Available Actions"
+msgstr ""
+
+#: public/class-is-ajax.php:104 public/class-is-ajax.php:493
+msgid "Category"
+msgstr ""
+
+#: admin/class-is-admin.php:156
+msgid "Click on the search form title to edit it."
+msgstr ""
+
+#: admin/class-is-help.php:99
+msgid ""
+"Cofigure the options in this section to manage search added in the site "
+"navigation menu."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:100
+msgid "Collapse All"
+msgstr ""
+
+#: admin/partials/search-form.php:126
+msgid "Configure AJAX search"
+msgstr ""
+
+#: admin/class-is-help.php:101
+msgid ""
+"Configure options in this section to manage sitewide search functionality."
+msgstr ""
+
+#: admin/partials/search-form.php:111
+msgid "Configure the content to search"
+msgstr ""
+
+#: admin/class-is-help.php:91
+msgid ""
+"Configure the options here to exclude specific content from search perfomed "
+"using this search form."
+msgstr ""
+
+#: admin/partials/search-form.php:201 admin/partials/settings-form.php:101
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-is-help.php:93
+msgid "Control here the overall behaviour of this search form."
+msgstr ""
+
+#: admin/class-is-help.php:89
+msgid ""
+"Control here which content you want to make searchable using this search "
+"form."
+msgstr ""
+
+#: admin/partials/search-form.php:92
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:347
+#: admin/class-is-settings-fields.php:389
+#: admin/class-is-settings-fields.php:423 includes/class-is-widget.php:73
+msgid "Create New"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:152
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/partials/search-form.php:119
+msgid "Customize"
+msgstr ""
+
+#: admin/partials/search-form.php:121
+msgid "Customize search form colors, text and style"
+msgstr ""
+
+#: includes/class-is-search-form.php:515
+msgid "Customizer"
+msgstr ""
+
+#: admin/class-is-list-table.php:243
+msgid "d/m/Y"
+msgstr ""
+
+#: admin/class-is-list-table.php:34
+msgid "Date"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:267
+msgid "Default"
+msgstr ""
+
+#: includes/class-is-admin-public.php:206
+msgid "Default Theme Search Form"
+msgstr ""
+
+#: admin/class-is-list-table.php:119 admin/class-is-list-table.php:182
+#: admin/partials/search-form.php:168
+msgid "Delete"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:539
+msgid "Disable search functionality on entire website"
+msgstr ""
+
+#: admin/class-is-admin.php:245 admin/class-is-admin.php:265
+msgid "Dismiss"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:296
+msgid "Display search form close icon"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:439
+msgid "Display search form in site header on mobile devices"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:233
+msgid "Display search form on selected menu."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:214
+msgid "Display search in menu and configure it using below options."
+msgstr ""
+
+#: includes/class-is-widget.php:14
+msgid "Displays ivory search form."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:501
+msgid "Do not load plugin CSS files"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:502
+msgid "Do not load plugin JavaScript files"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:549
+msgid ""
+"Do not use Default Search Form to control WordPress default search "
+"functionality"
+msgstr ""
+
+#: admin/class-is-admin.php:201 admin/class-is-help.php:110
+msgid "Docs"
+msgstr ""
+
+#: admin/partials/search-form.php:199 admin/partials/settings-form.php:99
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:268
+msgid "Dropdown"
+msgstr ""
+
+#: admin/class-is-list-table.php:168 admin/partials/search-form.php:183
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-is-list-table.php:158 admin/class-is-settings-fields.php:387
+#: admin/class-is-settings-fields.php:421 includes/class-is-search-form.php:511
+#: includes/class-is-widget.php:71
+msgid "Edit"
+msgstr ""
+
+#. %s: title of search form
+#: admin/class-is-list-table.php:148
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/class-is-admin.php:155 admin/class-is-settings-fields.php:345
+#: admin/partials/search-form.php:23
+msgid "Edit Search Form"
+msgstr ""
+
+#: admin/class-is-admin.php:157
+msgid "Edit the Default Search Form to manage the default WordPress search."
+msgstr ""
+
+#: admin/partials/search-form.php:80
+msgid "Editing the title of Default Search Form is restricted"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:498
+msgid ""
+"Enable below options to disable loading of plugin CSS and JavaScript files."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:468
+msgid "Enter stopwords here that will not be searched."
+msgstr ""
+
+#: admin/class-is-admin.php:809
+msgid "Error in deleting."
+msgstr ""
+
+#: admin/partials/search-form.php:116
+msgid "Exclude the content from search"
+msgstr ""
+
+#: admin/class-is-admin.php:459 admin/class-is-admin.php:468
+#: admin/class-is-help.php:40 admin/partials/search-form.php:114
+msgid "Excludes"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:100
+msgid "Expand All"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:180
+msgid "Extras"
+msgstr ""
+
+#: admin/class-is-admin.php:597
+msgid "Find Search Forms"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:138
+msgid "Footer Search"
+msgstr ""
+
+#: admin/class-is-help.php:109
+msgid "For more information:"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:270
+msgid "Full Width"
+msgstr ""
+
+#: admin/class-is-admin.php:270
+msgid "Get Support"
+msgstr ""
+
+#: admin/class-is-help.php:112 admin/partials/settings-form.php:102
+msgid "Give us a rating"
+msgstr ""
+
+#: admin/class-is-admin.php:266
+msgid "Have you found Ivory Search plugin useful?"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:131
+msgid "Header Search"
+msgstr ""
+
+#: admin/class-is-help.php:78
+msgid ""
+"Hovering over a row in the search forms list will display action links that "
+"allow you to manage your search form. You can perform the following actions:"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ivorysearch.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ivorysearch.com/"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:516
+msgid ""
+"If checked, you have to add following plugin file code into your child theme "
+"CSS file."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:520
+msgid ""
+"If checked, you have to add following plugin files code into your child "
+"theme JavaScript file."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:442
+msgid ""
+"If this site uses cache then please select the below option to display "
+"search form on mobile."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:482
+msgid ""
+"If you add bird = crow to the list of synonyms, searches for bird "
+"automatically become a search for bird crow and will thus match to posts "
+"that include either bird or crow."
+msgstr ""
+
+#: admin/class-is-admin.php:220
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+
+#: public/class-is-ajax.php:760
+msgid "In stock"
+msgstr ""
+
+#: admin/class-is-admin.php:458 admin/class-is-admin.php:465
+#: admin/class-is-help.php:35 admin/partials/search-form.php:109
+msgid "Includes"
+msgstr ""
+
+#: admin/partials/search-form.php:196 admin/partials/settings-form.php:96
+msgid "Information"
+msgstr ""
+
+#: admin/class-is-admin.php:1043
+msgid "Install Premium Version to Access"
+msgstr ""
+
+#: includes/class-is-search-form.php:399
+msgid "Invalid search form."
+msgstr ""
+
+#. Base ID
+#. Name of the plugin
+#. Author of the plugin
+#: admin/class-is-admin.php:220 admin/class-is-admin.php:492
+#: admin/class-is-admin.php:493 includes/class-is-admin-public.php:106
+#: includes/class-is-widget.php:13
+msgid "Ivory Search"
+msgstr ""
+
+#: admin/class-is-admin.php:534 admin/partials/settings-form.php:20
+msgid "Ivory Search Settings"
+msgstr ""
+
+#: includes/class-is-admin-public.php:264
+msgid "Loader Image"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:222
+msgid "Make search changes on entire website using below options."
+msgstr ""
+
+#: admin/partials/search-form.php:131
+msgid "Manage search functionality"
+msgstr ""
+
+#: admin/class-is-help.php:59
+msgid "Menu Search"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:197
+msgid "Menu Search Form Settings"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:145
+msgid "Mobile Search"
+msgstr ""
+
+#: public/class-is-ajax.php:75
+msgid "More results"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:253
+msgid "Navigation menu location is not registered on the site."
+msgstr ""
+
+#: admin/class-is-admin.php:321
+msgid "No posts found"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:380
+#: admin/class-is-settings-fields.php:414
+msgid "none"
+msgstr ""
+
+#: admin/class-is-help.php:83
+msgid ""
+"On this screen, you can edit a search form. A search form is comprised of "
+"the following components:"
+msgstr ""
+
+#: admin/class-is-help.php:95
+msgid ""
+"On this screen, you can manage search added in the site navgation menu and "
+"configure settings that will affect all search forms and search "
+"functionality on the site. The settings screen comprised of the following "
+"sections:"
+msgstr ""
+
+#: admin/class-is-help.php:76
+msgid ""
+"On this screen, you can manage search forms provided by Ivory Search plugin. "
+"You can create and manage an unlimited number of search forms. Each search "
+"form has a unique ID and search form shortcode ([ivory-search ...]). To "
+"insert a search form into a post or a text widget, insert the shortcode into "
+"the target."
+msgstr ""
+
+#: admin/class-is-help.php:45 admin/partials/search-form.php:129
+msgid "Options"
+msgstr ""
+
+#: public/class-is-ajax.php:760
+msgid "Out of stock"
+msgstr ""
+
+#: admin/class-is-help.php:16 admin/class-is-help.php:30
+#: admin/class-is-help.php:54
+msgid "Overview"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:488
+msgid "Please add every synonyms key = value pairs on new line."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:250
+#, php-format
+msgid "Please assign menu to navigation menu location in the %sMenus screen%s."
+msgstr ""
+
+#: admin/class-is-admin.php:475
+#, php-format
+msgid ""
+"Please make sure you have not selected similar %s fields in the search form "
+"%s and %s sections."
+msgstr ""
+
+#: includes/class-is-widget.php:34
+msgid "Please select search form in the Ivory Search  widget."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:472
+msgid "Please separate multiple words with commas."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:173
+msgid "Plugin Files"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:271
+msgid "Popup"
+msgstr ""
+
+#: admin/partials/search-form.php:202
+msgid "Rate Ivory Search"
+msgstr ""
+
+#: admin/class-is-admin.php:269
+msgid "Rate Ivory Search and Help Us Out"
+msgstr ""
+
+#: admin/partials/search-form.php:187
+msgid "Reset"
+msgstr ""
+
+#: public/class-is-ajax.php:827
+msgid "Sale!"
+msgstr ""
+
+#: admin/partials/search-form.php:177
+msgid "Save"
+msgstr ""
+
+#: admin/class-is-admin.php:1030
+msgid "Save Form"
+msgstr ""
+
+#: admin/class-is-admin.php:271
+msgid "Say Hi"
+msgstr ""
+
+#: includes/class-is-admin-public.php:183 includes/class-is-search-form.php:449
+msgid "Search"
+msgstr ""
+
+#: includes/class-is-admin-public.php:187
+msgid "Search Button"
+msgstr ""
+
+#: includes/class-is-search-form.php:60
+msgid "Search Form"
+msgstr ""
+
+#: admin/class-is-admin.php:433
+msgid "Search form created."
+msgstr ""
+
+#: admin/class-is-admin.php:437
+msgid "Search form deleted."
+msgstr ""
+
+#: admin/partials/search-form.php:68 admin/partials/search-form.php:80
+msgid "Search form name"
+msgstr ""
+
+#: admin/class-is-admin.php:439
+msgid "Search form reset."
+msgstr ""
+
+#: admin/class-is-admin.php:435
+msgid "Search form saved."
+msgstr ""
+
+#: includes/class-is-admin-public.php:201
+msgid "Search Form Style"
+msgstr ""
+
+#: includes/class-is-admin-public.php:202
+msgid "Search form submit button field style."
+msgstr ""
+
+#: includes/class-is-widget.php:62
+msgid "Search Form:"
+msgstr ""
+
+#: admin/class-is-admin.php:502 admin/class-is-admin.php:503
+#: admin/class-is-admin.php:573 includes/class-is-search-form.php:59
+msgid "Search Forms"
+msgstr ""
+
+#: admin/class-is-admin.php:582
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class-is-admin-public.php:170 includes/class-is-search-form.php:448
+msgid "Search..."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:264
+msgid "Select menu search form style."
+msgstr ""
+
+#: includes/class-is-widget.php:64
+msgid "Select Search Form"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:322
+msgid "Select search form that will control menu search functionality."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:402
+msgid "Select search form to display in site footer."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:368
+msgid "Select search form to display in site header."
+msgstr ""
+
+#: admin/class-is-admin.php:181 admin/class-is-admin.php:535
+#: admin/class-is-help.php:64
+msgid "Settings"
+msgstr ""
+
+#: admin/class-is-list-table.php:32
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:269
+msgid "Sliding"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:159
+msgid "Stopwords"
+msgstr ""
+
+#: includes/class-is-admin-public.php:209
+msgid "Style 1"
+msgstr ""
+
+#: includes/class-is-admin-public.php:213
+msgid "Style 2"
+msgstr ""
+
+#: includes/class-is-admin-public.php:217
+msgid "Style 3"
+msgstr ""
+
+#: admin/class-is-admin.php:202 admin/class-is-help.php:111
+#: admin/partials/search-form.php:200 admin/partials/settings-form.php:100
+msgid "Support"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:166
+msgid "Synonyms"
+msgstr ""
+
+#: public/class-is-ajax.php:94 public/class-is-ajax.php:495
+msgid "Tag"
+msgstr ""
+
+#: includes/class-is-admin-public.php:174
+msgid "Text Box Placeholder"
+msgstr ""
+
+#: admin/class-is-admin.php:240
+#, php-format
+msgid ""
+"Thank you for using <strong>Ivory Search</strong> plugin. You can configure "
+"its <a href=\"%1$s\">settings</a> and get support on <a href=\"%2$s\" "
+"target=\"_blank\">support forum</a> or <a href=\"%3$s\" target=\"_blank\">"
+"contact us</a>."
+msgstr ""
+
+#: admin/class-is-admin.php:220
+msgid "Thanks :)"
+msgstr ""
+
+#: admin/class-is-admin.php:77
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:487
+msgid "The format here is key = value"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The WordPress Search plugin that includes Search Form Customizer, "
+"WooCommerce Search, Image Search, Search Shortcode, AJAX Search & Live "
+"Search support!"
+msgstr ""
+
+#: admin/class-is-admin.php:450
+msgid "There was an error saving the search form."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:483
+msgid ""
+"This only works for search forms configured to search any of the search "
+"terms(OR) and not all search terms(AND) in the search form Options."
+msgstr ""
+
+#: admin/class-is-settings-fields.php:447
+msgid "This site uses cache"
+msgstr ""
+
+#: admin/class-is-list-table.php:31
+msgid "Title"
+msgstr ""
+
+#: includes/class-is-widget.php:51
+msgid "Title:"
+msgstr ""
+
+#: includes/class-is-search-form.php:111 includes/class-is-search-form.php:205
+msgid "Untitled"
+msgstr ""
+
+#: admin/class-is-admin.php:1046
+msgid "Upgrade to Pro Plus to Access"
+msgstr ""
+
+#: admin/class-is-admin.php:1040
+msgid "Upgrade to Pro to Access"
+msgstr ""
+
+#: admin/class-is-admin.php:457
+msgid "Validation error occurred."
+msgstr ""
+
+#: admin/class-is-admin.php:201
+msgid "View Ivory Search documentation"
+msgstr ""
+
+#: admin/class-is-admin.php:202
+msgid "Visit plugin customer support"
+msgstr ""
+
+#: admin/class-is-settings-fields.php:544
+msgid "Warning: Use with caution."
+msgstr ""
+
+#: admin/class-is-admin.php:267
+msgid ""
+"We poured a lot of hours into creating it, and we'd love it if you could "
+"give us a nice rating on the official plugin directory."
+msgstr ""
+
+#: admin/class-is-help.php:137
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/class-is-list-table.php:230
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: admin/class-is-list-table.php:181 admin/partials/search-form.php:168
+msgid ""
+"You are about to delete this search form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: admin/partials/search-form.php:187
+msgid ""
+"You are about to reset this search form.\n"
+"  'Cancel' to stop, 'OK' to reset."
+msgstr ""
+
+#: admin/class-is-admin.php:767
+msgid "You are not allowed to copy this item."
+msgstr ""
+
+#: admin/class-is-admin.php:806
+msgid "You are not allowed to delete this item."
+msgstr ""
+
+#: admin/class-is-admin.php:641
+msgid "You are not allowed to edit this item."
+msgstr ""
+
+#: admin/class-is-admin.php:738
+msgid "You are not allowed to reset this item."
+msgstr ""
